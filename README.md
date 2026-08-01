@@ -1,16 +1,15 @@
-## Hi there 👋
+# Danny Sheehan
 
-<!--
-**dan-sheehan/dan-sheehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a GTM systems builder and former Founding Customer Success Manager at Rumi.ai, which was acquired in 2026.
 
-Here are some ideas to get you started:
+I turn customer workflows, product signals, and unstructured data into practical systems for implementation, adoption, expansion, and renewal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work connects Customer Success, Product, Engineering, and revenue teams. I use Python, TypeScript, Flask, APIs, and coding agents to build lightweight tools that help teams:
+
+- onboard customers faster
+- structure customer feedback
+- improve account intelligence
+- automate repeatable GTM work
+- connect product adoption to revenue outcomes
+
+I use GitHub to build in public, document decisions, and improve tools through real use.
