@@ -1,15 +1,21 @@
 # Danny Sheehan
 
-I am a GTM systems builder and former Founding Customer Success Manager at Rumi.ai, which was acquired in 2026.
+I build practical systems at the intersection of customers, AI, workflows, and implementation.
 
-I turn customer workflows, product signals, and unstructured data into practical systems for implementation, adoption, expansion, and renewal.
+My background is in customer-facing GTM and Customer Success, including as a Founding Customer Success Manager. I use coding agents, Python, APIs, and lightweight applications to turn ambiguous customer and operational problems into working, validated systems.
 
-My work connects Customer Success, Product, Engineering, and revenue teams. I use Python, TypeScript, Flask, APIs, and coding agents to build lightweight tools that help teams:
+## Selected work
 
-- onboard customers faster
-- structure customer feedback
-- improve account intelligence
-- automate repeatable GTM work
-- connect product adoption to revenue outcomes
+### [Defiance](https://github.com/dan-sheehan/defiance)
+A deterministic, source-backed system for exploring the 2017 SDSU baseball season.
 
-I use GitHub to build in public, document decisions, and improve tools through real use.
+Historical sources are preserved, normalized, validated, and loaded into SQLite. Answers are backed by provenance, and the system fails explicitly when evidence is ambiguous or unavailable.
+
+### [GTM First Touch](https://github.com/dan-sheehan/gtm-first-touch)
+A portable GTM workflow for taking one target account from fit assessment through research, first-touch outreach, and discovery preparation.
+
+The workflow is designed to run across AI assistants while keeping evidence, seller context, and human review explicit.
+
+---
+
+I am interested in founding Customer Success, AI implementation, and customer-facing technical roles where I can own difficult customer problems from discovery through implementation and adoption.
