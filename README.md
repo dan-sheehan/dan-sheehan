@@ -6,6 +6,9 @@ My background is in customer-facing GTM and Customer Success, including as a Fou
 
 ## Selected work
 
+### [alabs](https://github.com/dan-sheehan/alabs)
+A local macOS workspace for people who can build working software, often with AI coding tools, but do not fully understand the engineering environment around what they built.
+
 ### [Defiance](https://github.com/dan-sheehan/defiance)
 A deterministic, source-backed system for exploring the 2017 SDSU baseball season.
 
