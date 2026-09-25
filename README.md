@@ -7,7 +7,7 @@ My background is in customer-facing GTM and Customer Success, including as a Fou
 ## Selected work
 
 ### [invader](https://github.com/dan-sheehan/invader)
-A workspace for building software with AI coding tools when you don't come from engineering background.
+A workspace for building software with AI coding tools when you don't come from engineering.
 
 ### [Defiance](https://github.com/dan-sheehan/defiance)
 A deterministic, source-backed system for exploring the 2017 SDSU baseball season.
