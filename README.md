@@ -12,12 +12,8 @@ A workspace for building software with AI coding tools when you don't come from 
 ### [Defiance](https://github.com/dan-sheehan/defiance)
 A deterministic, source-backed system for exploring the 2017 SDSU baseball season.
 
-Historical sources are preserved, normalized, validated, and loaded into SQLite. Answers are backed by provenance, and the system fails explicitly when evidence is ambiguous or unavailable.
-
 ### [GTM First Touch](https://github.com/dan-sheehan/gtm-first-touch)
 A portable GTM workflow for taking one target account from fit assessment through research, first-touch outreach, and discovery preparation.
-
-The workflow is designed to run across AI assistants while keeping evidence, seller context, and human review explicit.
 
 ---
 
